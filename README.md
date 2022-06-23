@@ -19,7 +19,7 @@ I am quite passionate about cloud computing and the security world. I prefer to 
 
 - :thinking:   I’m looking for a Graduate/Entry-level DevOps role.
 
-- :speech_ballon:   Ask me about DevOps and Cloud Computing
+- :speech_balloon:   Ask me about DevOps and Cloud Computing
 
 - :mailbox:   I can be reached at: jdamiloju@gmail.com
 
